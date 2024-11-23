@@ -1,6 +1,6 @@
 [project]
 name = "fastapi-supabase"
-version = "0.1.0"
+version = "0.2.0"
 description = "Integrate supabase to FastAPI with less effort"
 readme = "README.md"
 requires-python = ">=3.9"
